@@ -1,0 +1,16 @@
+tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres,averageRating,numVotes,averageNumberOfVotes,ranking
+tt0111161,movie,The Shawshank Redemption,The Shawshank Redemption,0,1994,\N,142,Drama,9.3,2811129.0,8688.357604720812,3009.026664118309
+tt0468569,movie,The Dark Knight,The Dark Knight,0,2008,\N,152,"Action,Crime,Drama",9.0,2792780.0,8688.357604720812,2892.954128216696
+tt1375666,movie,Inception,Inception,0,2010,\N,148,"Action,Adventure,Sci-Fi",8.8,2478726.0,8688.357604720812,2510.5767732382515
+tt0137523,movie,Fight Club,Fight Club,0,1999,\N,139,Drama,8.8,2245668.0,8688.357604720812,2274.524058409198
+tt0109830,movie,Forrest Gump,Forrest Gump,0,1994,\N,142,"Drama,Romance",8.8,2188539.0,8688.357604720812,2216.660970484866
+tt0110912,movie,Pulp Fiction,Pulp Fiction,0,1994,\N,154,"Crime,Drama",8.9,2155825.0,8688.357604720812,2208.3394092313656
+tt0068646,movie,The Godfather,The Godfather,0,1972,\N,175,"Crime,Drama",9.2,1959080.0,8688.357604720812,2074.446842543282
+tt0816692,movie,Interstellar,Interstellar,0,2014,\N,169,"Adventure,Drama,Sci-Fi",8.7,2002549.0,8688.357604720812,2005.2324147585355
+tt0133093,movie,The Matrix,The Matrix,0,1999,\N,136,"Action,Sci-Fi",8.7,1998602.0,8688.357604720812,2001.2801257803121
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,0,2003,\N,201,"Action,Adventure,Drama",9.0,1924561.0,8688.357604720812,1993.593011248596
+tt0120737,movie,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,0,2001,\N,178,"Action,Adventure,Drama",8.8,1952422.0,8688.357604720812,1977.509948562033
+tt0167261,movie,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,0,2002,\N,179,"Action,Adventure,Drama",8.8,1736199.0,8688.357604720812,1758.5085576701417
+tt0114369,movie,Se7en,Se7en,0,1995,\N,127,"Crime,Drama,Mystery",8.6,1742309.0,8688.357604720812,1724.5903174909067
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,0,2012,\N,164,"Action,Drama,Thriller",8.4,1782760.0,8688.357604720812,1723.5920390596318
+tt1853728,movie,Django Unchained,Django Unchained,0,2012,\N,165,"Drama,Western",8.5,1642677.0,8688.357604720812,1607.064894798224
