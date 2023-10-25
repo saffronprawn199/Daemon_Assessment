@@ -29,5 +29,4 @@ averageNumberOfVotes) * averageRating
 * Step 2: Check test cases ```python -m unittest -v Test_Cases.DataTransformTestCases```
 * Step 3: Run ```python main.py```
 
-### Relevant output
 
